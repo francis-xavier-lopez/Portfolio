@@ -134,7 +134,6 @@ cards.forEach((card,index)=>{
 const titles = [
     "Python Full Stack Developer",
     "Django Developer",
-    "AI Enthusiast",
     "Web Developer"
 ];
 
